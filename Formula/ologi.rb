@@ -3,7 +3,7 @@ class Ologi < Formula
   homepage "https://voice.ologi.app"
   version "0.1.0"
   url "https://github.com/ologi-app/ologi/releases/download/v0.1.0/ologi-0.1.0-darwin-arm64.tar.gz"
-  sha256 "64b7c826ae1297aa6aab96935130eedb94ed4e31c237e3ba103ff88967964459"
+  sha256 "b9c4dd732cb88e68324ba59fdb8b48dc8a83accc4323e0d937b902fd5362921e"
 
   depends_on "portaudio"
   depends_on :macos
