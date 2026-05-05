@@ -1,9 +1,9 @@
 class Ologi < Formula
   desc "Talk your way through your AI conversations"
   homepage "https://voice.ologi.app"
-  version "0.1.2"
-  url "https://github.com/ologi-app/ologi/releases/download/v0.1.2/ologi-0.1.2-darwin-arm64.tar.gz"
-  sha256 "66f7f074ef422d765767027f033972419b41e2e3aed525c9dbd5a175e2184233"
+  version "0.1.3"
+  url "https://github.com/ologi-app/ologi/releases/download/v0.1.3/ologi-0.1.3-darwin-arm64.tar.gz"
+  sha256 "ce0724f772c1721df9b521242ada27d0102072aa5b9ff0024c96ea9d49383ace"
 
   depends_on "portaudio"
   depends_on :macos
